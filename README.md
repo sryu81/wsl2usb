@@ -1,5 +1,5 @@
 # wsl2usb 
-This document is to describe how to activate your usb devices in the WSL2 on windows 11.
+This document explains how to activate your usb devices in the WSL2 on windows 11.
 
 ## install usbipd
 
